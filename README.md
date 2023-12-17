@@ -1,5 +1,7 @@
 # Snake Game
  The Game is pure made using HTML, CSS and JS only.
+
+ [Test it yourself](https://shrejashekhar.github.io/Snake-Game/)
  
 # Screenshots
 
